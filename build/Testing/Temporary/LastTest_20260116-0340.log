@@ -1,0 +1,39 @@
+Start testing: Jan 16 10:48 ????? (????)
+----------------------------------------------------------
+1/1 Testing: test_ip_filter
+1/1 Test: test_ip_filter
+Command: "C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/tests/test_ip_filter.exe"
+Directory: C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build
+"test_ip_filter" start time: Jan 16 10:48 ????? (????)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from IpFilterTest
+[ RUN      ] IpFilterTest.ParseIpLine
+[       OK ] IpFilterTest.ParseIpLine (0 ms)
+[ RUN      ] IpFilterTest.ReverseSorting
+[       OK ] IpFilterTest.ReverseSorting (0 ms)
+[ RUN      ] IpFilterTest.FilterByFirstByte
+[       OK ] IpFilterTest.FilterByFirstByte (0 ms)
+[ RUN      ] IpFilterTest.FilterByTwoBytes
+[       OK ] IpFilterTest.FilterByTwoBytes (0 ms)
+[ RUN      ] IpFilterTest.FilterByAnyByte
+[       OK ] IpFilterTest.FilterByAnyByte (0 ms)
+[ RUN      ] IpFilterTest.ReadIpPool
+[       OK ] IpFilterTest.ReadIpPool (4 ms)
+[----------] 6 tests from IpFilterTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (5 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"test_ip_filter" end time: Jan 16 10:48 ????? (????)
+"test_ip_filter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 16 10:48 ????? (????)

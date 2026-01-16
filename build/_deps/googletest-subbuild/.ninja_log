@@ -1,0 +1,21 @@
+# ninja log v7
+1	101	7902380992095044	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fe6ab1c7b275db29
+1	101	7902380992095044	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fe6ab1c7b275db29
+102	3013	7902381021188810	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a23c1485e1f0962a
+102	3013	7902381021188810	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a23c1485e1f0962a
+3013	3101	7902381022093271	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	68b5034155a8dd93
+3013	3101	7902381022093271	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	68b5034155a8dd93
+3101	3171	7902381022832150	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	31bb16c92c7e174b
+3101	3171	7902381022832150	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	31bb16c92c7e174b
+3171	3243	7902381023503461	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9ea336c094f6d2df
+3171	3243	7902381023503461	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9ea336c094f6d2df
+3243	3319	7902381024324050	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	9937f9ec25299def
+3243	3319	7902381024324050	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	9937f9ec25299def
+3319	3394	7902381025066644	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	88c02f669963595c
+3319	3394	7902381025066644	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	88c02f669963595c
+3394	3469	7902381025809968	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	34706b2b51fd829d
+3394	3469	7902381025809968	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	34706b2b51fd829d
+3469	3597	7902381027104909	CMakeFiles/googletest-populate-complete	e451465e628b8e9c
+3469	3597	7902381027104909	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e451465e628b8e9c
+3469	3597	7902381027104909	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	e451465e628b8e9c
+3469	3597	7902381027104909	C:/Users/Kris/Desktop/Study/TPU/3sem/programming/cpp-labs/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e451465e628b8e9c
